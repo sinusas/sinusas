@@ -13,10 +13,10 @@
 <hr/>
 <h4>do 4th level headings look different?</h4>
 <table>
-  <tr>
+  <thead>
     <th>Heading 1</th>
     <th>Heading 2</th>
-  </tr>
+  </thead>
   <tr>
     <td>data 1</td>
     <td>data 2</td>
