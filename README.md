@@ -5,7 +5,10 @@
   <li>Ok let's try a list</li>
   <li>with a couple items in it</li>
 </ul>
-
+<details>
+  <summary>Collapsible thing</summary>
+  this is the stuff that expands out but is otherwise hidden.
+</details>
 
 <!--
 **sinusas/sinusas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
