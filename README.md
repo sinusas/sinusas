@@ -5,6 +5,7 @@
   <li>Ok let's try a list</li>
   <li>with a couple items in it</li>
 </ul>
+<h3>third level heading</h3>
 <details>
   <summary>Collapsible thing</summary>
   this is the stuff that expands out but is otherwise hidden.
