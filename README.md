@@ -10,6 +10,7 @@
   <summary>Collapsible thing</summary>
   this is the stuff that expands out but is otherwise hidden.
 </details>
+<h4>do 4th level headings look different?</h4>
 <table>
   <tr>
     <th>Heading 1</th>
