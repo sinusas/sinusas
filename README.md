@@ -11,13 +11,17 @@
   this is the stuff that expands out but is otherwise hidden.
 </details>
 <table>
-  <th>
-    <td>Heading 1</td>
-    <td>Heading 2</td>
-  </th>
+  <tr>
+    <th>Heading 1</th>
+    <th>Heading 2</th>
+  </tr>
   <tr>
     <td>data 1</td>
     <td>data 2</td>
+  </tr>
+   <tr>
+    <td>data 3</td>
+    <td>data 4</td>
   </tr>
  </table>
  
