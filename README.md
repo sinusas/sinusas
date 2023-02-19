@@ -1,5 +1,5 @@
 <h1>This is me testing an HTML heading</h1>
-<p>And <strong>here</strong> is a paragraph of text that is at least a couple of lines <em>probably</em> once it has all been typed out.  I think I hit line two or three by now hopefully. <br/> Ok, that should do it. Yup</p>
+<p>And <strong>here</strong> is a paragraph of text that is at least a couple of lines <em>probably</em> once it has all been typed out.  I <small>think</small> I hit line two or three by now hopefully. <br/> Ok, that should do it. Yup</p>
 <h2>a second level heading</h2>
 <ul>
   <li>Ok let's try a list</li>
