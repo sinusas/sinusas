@@ -10,7 +10,17 @@
   <summary>Collapsible thing</summary>
   this is the stuff that expands out but is otherwise hidden.
 </details>
-
+<table>
+  <th>
+    <td>Heading 1</td>
+    <td>Heading 2</td>
+  </th>
+  <tr>
+    <td>data 1</td>
+    <td>data 2</td>
+  </tr>
+ </table>
+ 
 <!--
 **sinusas/sinusas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
