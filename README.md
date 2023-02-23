@@ -31,7 +31,6 @@
   </tr>
  </table>
 <pre>
-mermaid
   graph TD;
       A-->B;
       A-->C;
