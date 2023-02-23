@@ -30,14 +30,15 @@
     <td>data 6</td>
   </tr>
  </table>
- 
-mermaid
+<pre>
+```mermaid
   graph TD;
       A-->B;
       A-->C;
       B-->D;
       C-->D;
-
+```
+</pre>
 <!--
 **sinusas/sinusas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
