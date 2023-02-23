@@ -30,6 +30,8 @@
     <td>data 6</td>
   </tr>
  </table>
+ 
+
 ```mermaid
 graph TD;
     A-->B;
